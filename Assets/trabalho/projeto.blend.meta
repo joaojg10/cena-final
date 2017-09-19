@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 5664faa5aa039f14ea3a019597a11d8a
+timeCreated: 1505825714
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baker_house
+    100002: Barrel_Sealed_01
+    100004: Barrel_Sealed_01_001
+    100006: Bone_Ribcage_02
+    100008: Bone_Ribcage_02_001
+    100010: Bridge_Timber_Small_01
+    100012: Bridge_Timber_Small_01_001
+    100014: Cactus_01
+    100016: Cactus_01_001
+    100018: Cactus_01_002
+    100020: Cactus_01_003
+    100022: Fence_Timber_Large_02
+    100024: Fence_Timber_Large_02_001
+    100026: Fence_Timber_Large_02_002
+    100028: Fence_Timber_Large_02_003
+    100030: Fence_Timber_Large_02_004
+    100032: Fence_Timber_Large_02_005
+    100034: Fence_Timber_Large_02_006
+    100036: Fence_Timber_Large_02_007
+    100038: Hill_Dirt_01
+    100040: Hill_Dirt_01_002
+    100042: Mountain_Grass_01
+    100044: Mountain_Grass_01_001
+    100046: Plane
+    100048: Plane_001
+    100050: polySurface62_001
+    100052: polySurface62_002
+    100054: polySurface62_003
+    100056: polySurface62_004
+    100058: polySurface62_005
+    100060: polySurface62_006
+    100062: //RootNode
+    100064: Sign_Wooden_Blank_01
+    100066: Sign_Wooden_Blank_01_001
+    100068: Sign_Wooden_Blank_01_002
+    100070: Well_01
+    100072: Well_01_001
+    400000: Baker_house
+    400002: Barrel_Sealed_01
+    400004: Barrel_Sealed_01_001
+    400006: Bone_Ribcage_02
+    400008: Bone_Ribcage_02_001
+    400010: Bridge_Timber_Small_01
+    400012: Bridge_Timber_Small_01_001
+    400014: Cactus_01
+    400016: Cactus_01_001
+    400018: Cactus_01_002
+    400020: Cactus_01_003
+    400022: Fence_Timber_Large_02
+    400024: Fence_Timber_Large_02_001
+    400026: Fence_Timber_Large_02_002
+    400028: Fence_Timber_Large_02_003
+    400030: Fence_Timber_Large_02_004
+    400032: Fence_Timber_Large_02_005
+    400034: Fence_Timber_Large_02_006
+    400036: Fence_Timber_Large_02_007
+    400038: Hill_Dirt_01
+    400040: Hill_Dirt_01_002
+    400042: Mountain_Grass_01
+    400044: Mountain_Grass_01_001
+    400046: Plane
+    400048: Plane_001
+    400050: polySurface62_001
+    400052: polySurface62_002
+    400054: polySurface62_003
+    400056: polySurface62_004
+    400058: polySurface62_005
+    400060: polySurface62_006
+    400062: //RootNode
+    400064: Sign_Wooden_Blank_01
+    400066: Sign_Wooden_Blank_01_001
+    400068: Sign_Wooden_Blank_01_002
+    400070: Well_01
+    400072: Well_01_001
+    2300000: Baker_house
+    2300002: Barrel_Sealed_01_001
+    2300004: Bone_Ribcage_02_001
+    2300006: Bridge_Timber_Small_01_001
+    2300008: Cactus_01_001
+    2300010: Cactus_01_003
+    2300012: Fence_Timber_Large_02_001
+    2300014: Fence_Timber_Large_02_003
+    2300016: Fence_Timber_Large_02_005
+    2300018: Fence_Timber_Large_02_007
+    2300020: Mountain_Grass_01_001
+    2300022: Plane
+    2300024: Plane_001
+    2300026: polySurface62_001
+    2300028: polySurface62_002
+    2300030: polySurface62_003
+    2300032: polySurface62_004
+    2300034: polySurface62_005
+    2300036: polySurface62_006
+    2300038: Sign_Wooden_Blank_01_001
+    2300040: Sign_Wooden_Blank_01_002
+    2300042: Well_01_001
+    3300000: Baker_house
+    3300002: Barrel_Sealed_01_001
+    3300004: Bone_Ribcage_02_001
+    3300006: Bridge_Timber_Small_01_001
+    3300008: Cactus_01_001
+    3300010: Cactus_01_003
+    3300012: Fence_Timber_Large_02_001
+    3300014: Fence_Timber_Large_02_003
+    3300016: Fence_Timber_Large_02_005
+    3300018: Fence_Timber_Large_02_007
+    3300020: Mountain_Grass_01_001
+    3300022: Plane
+    3300024: Plane_001
+    3300026: polySurface62_001
+    3300028: polySurface62_002
+    3300030: polySurface62_003
+    3300032: polySurface62_004
+    3300034: polySurface62_005
+    3300036: polySurface62_006
+    3300038: Sign_Wooden_Blank_01_001
+    3300040: Sign_Wooden_Blank_01_002
+    3300042: Well_01_001
+    4300000: Baker_house
+    4300002: Plane_001
+    4300004: Plane
+    4300006: polySurface62_001
+    4300008: polySurface62_002
+    4300010: polySurface62_003
+    4300012: polySurface62_004
+    4300014: polySurface62_005
+    4300016: polySurface62_006
+    4300018: Bridge_Timber_Small_01_001
+    4300020: Well_01_001
+    4300022: Sign_Wooden_Blank_01_002
+    4300024: Sign_Wooden_Blank_01_001
+    4300026: Mountain_Grass_01_001
+    4300028: Cactus_01_001
+    4300030: Bone_Ribcage_02_001
+    4300032: Barrel_Sealed_01_001
+    4300034: Fence_Timber_Large_02_001
+    4300036: Fence_Timber_Large_02_003
+    4300038: Fence_Timber_Large_02_005
+    4300040: Fence_Timber_Large_02_007
+    4300042: Cactus_01_003
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

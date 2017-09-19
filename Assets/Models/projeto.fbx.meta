@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: e6b2a60590dfa8641bda354e60a0f103
+timeCreated: 1505825521
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baker_house
+    100002: Barrel_Sealed_01
+    100004: Barrel_Sealed_01.001
+    100006: Bone_Ribcage_02
+    100008: Bone_Ribcage_02.001
+    100010: Bridge_Timber_Small_01
+    100012: Bridge_Timber_Small_01.001
+    100014: Cactus_01
+    100016: Cactus_01.001
+    100018: Cactus_01.002
+    100020: Cactus_01.003
+    100022: Fence_Timber_Large_02
+    100024: Fence_Timber_Large_02.001
+    100026: Fence_Timber_Large_02.002
+    100028: Fence_Timber_Large_02.003
+    100030: Fence_Timber_Large_02.004
+    100032: Fence_Timber_Large_02.005
+    100034: Fence_Timber_Large_02.006
+    100036: Fence_Timber_Large_02.007
+    100038: Hill_Dirt_01
+    100040: Hill_Dirt_01.002
+    100042: Mountain_Grass_01
+    100044: Mountain_Grass_01.001
+    100046: Plane
+    100048: Plane.001
+    100050: polySurface62.000
+    100052: polySurface62.001
+    100054: polySurface62.002
+    100056: polySurface62.003
+    100058: polySurface62.004
+    100060: polySurface62.005
+    100062: //RootNode
+    100064: Sign_Wooden_Blank_01
+    100066: Sign_Wooden_Blank_01.002
+    100068: Well_01
+    100070: Well_01.001
+    400000: Baker_house
+    400002: Barrel_Sealed_01
+    400004: Barrel_Sealed_01.001
+    400006: Bone_Ribcage_02
+    400008: Bone_Ribcage_02.001
+    400010: Bridge_Timber_Small_01
+    400012: Bridge_Timber_Small_01.001
+    400014: Cactus_01
+    400016: Cactus_01.001
+    400018: Cactus_01.002
+    400020: Cactus_01.003
+    400022: Fence_Timber_Large_02
+    400024: Fence_Timber_Large_02.001
+    400026: Fence_Timber_Large_02.002
+    400028: Fence_Timber_Large_02.003
+    400030: Fence_Timber_Large_02.004
+    400032: Fence_Timber_Large_02.005
+    400034: Fence_Timber_Large_02.006
+    400036: Fence_Timber_Large_02.007
+    400038: Hill_Dirt_01
+    400040: Hill_Dirt_01.002
+    400042: Mountain_Grass_01
+    400044: Mountain_Grass_01.001
+    400046: Plane
+    400048: Plane.001
+    400050: polySurface62.000
+    400052: polySurface62.001
+    400054: polySurface62.002
+    400056: polySurface62.003
+    400058: polySurface62.004
+    400060: polySurface62.005
+    400062: //RootNode
+    400064: Sign_Wooden_Blank_01
+    400066: Sign_Wooden_Blank_01.002
+    400068: Well_01
+    400070: Well_01.001
+    2300000: Baker_house
+    2300002: Barrel_Sealed_01.001
+    2300004: Bone_Ribcage_02.001
+    2300006: Bridge_Timber_Small_01.001
+    2300008: Cactus_01.001
+    2300010: Cactus_01.003
+    2300012: Fence_Timber_Large_02.001
+    2300014: Fence_Timber_Large_02.003
+    2300016: Fence_Timber_Large_02.005
+    2300018: Fence_Timber_Large_02.007
+    2300020: Mountain_Grass_01.001
+    2300022: Plane
+    2300024: Plane.001
+    2300026: polySurface62.000
+    2300028: polySurface62.001
+    2300030: polySurface62.002
+    2300032: polySurface62.003
+    2300034: polySurface62.004
+    2300036: polySurface62.005
+    2300038: Sign_Wooden_Blank_01.002
+    2300040: Well_01.001
+    3300000: Baker_house
+    3300002: Barrel_Sealed_01.001
+    3300004: Bone_Ribcage_02.001
+    3300006: Bridge_Timber_Small_01.001
+    3300008: Cactus_01.001
+    3300010: Cactus_01.003
+    3300012: Fence_Timber_Large_02.001
+    3300014: Fence_Timber_Large_02.003
+    3300016: Fence_Timber_Large_02.005
+    3300018: Fence_Timber_Large_02.007
+    3300020: Mountain_Grass_01.001
+    3300022: Plane
+    3300024: Plane.001
+    3300026: polySurface62.000
+    3300028: polySurface62.001
+    3300030: polySurface62.002
+    3300032: polySurface62.003
+    3300034: polySurface62.004
+    3300036: polySurface62.005
+    3300038: Sign_Wooden_Blank_01.002
+    3300040: Well_01.001
+    4300000: Bridge_Timber_Small_01.001
+    4300002: Well_01.001
+    4300004: Sign_Wooden_Blank_01.002
+    4300006: Mountain_Grass_01.001
+    4300008: Cactus_01.001
+    4300010: Bone_Ribcage_02.001
+    4300012: Barrel_Sealed_01.001
+    4300014: Fence_Timber_Large_02.001
+    4300016: Baker_house
+    4300018: Plane.001
+    4300020: Plane
+    4300022: polySurface62.004
+    4300024: Fence_Timber_Large_02.003
+    4300026: Fence_Timber_Large_02.005
+    4300028: Fence_Timber_Large_02.007
+    4300030: Cactus_01.003
+    4300032: polySurface62.000
+    4300034: polySurface62.001
+    4300036: polySurface62.002
+    4300038: polySurface62.003
+    4300040: polySurface62.005
+    7400000: Bridge_Timber_Small_01|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400002: Bridge_Timber_Small_01|Barrel_Sealed_01|Take 001|BaseLayer
+    7400004: Bridge_Timber_Small_01|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400006: Bridge_Timber_Small_01|Bone_Ribcage_02|Take 001|BaseLayer
+    7400008: Bridge_Timber_Small_01|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400010: Bridge_Timber_Small_01|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400012: Bridge_Timber_Small_01|Cactus_01.001|Take 001|BaseLayer
+    7400014: Bridge_Timber_Small_01|Cactus_01.001|Take 001|BaseLayer.001
+    7400016: Bridge_Timber_Small_01|Cactus_01|Take 001|BaseLayer
+    7400018: Bridge_Timber_Small_01|Cactus_01|Take 001|BaseLayer.001
+    7400020: Bridge_Timber_Small_01|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400022: Bridge_Timber_Small_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400024: Bridge_Timber_Small_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400026: Bridge_Timber_Small_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400028: Bridge_Timber_Small_01|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400030: Bridge_Timber_Small_01|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400032: Bridge_Timber_Small_01|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400034: Bridge_Timber_Small_01|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400036: Bridge_Timber_Small_01|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400038: Bridge_Timber_Small_01|Hill_Dirt_01|Take 001|BaseLayer
+    7400040: Bridge_Timber_Small_01|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400042: Bridge_Timber_Small_01|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400044: Bridge_Timber_Small_01|Mountain_Grass_01|Take 001|BaseLayer
+    7400046: Bridge_Timber_Small_01|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400048: Bridge_Timber_Small_01|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400050: Bridge_Timber_Small_01|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400052: Bridge_Timber_Small_01|Tree_Common_01.001|Take 001|BaseLayer
+    7400054: Bridge_Timber_Small_01|Tree_Common_01|Take 001|BaseLayer
+    7400056: Bridge_Timber_Small_01|Well_01.001|Take 001|BaseLayer
+    7400058: Bridge_Timber_Small_01|Well_01|Take 001|BaseLayer
+    7400060: Bridge_Timber_Small_01.001|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400062: Bridge_Timber_Small_01.001|Barrel_Sealed_01|Take 001|BaseLayer
+    7400064: Bridge_Timber_Small_01.001|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400066: Bridge_Timber_Small_01.001|Bone_Ribcage_02|Take 001|BaseLayer
+    7400068: Bridge_Timber_Small_01.001|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400070: Bridge_Timber_Small_01.001|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400072: Bridge_Timber_Small_01.001|Cactus_01.001|Take 001|BaseLayer
+    7400074: Bridge_Timber_Small_01.001|Cactus_01.001|Take 001|BaseLayer.001
+    7400076: Bridge_Timber_Small_01.001|Cactus_01|Take 001|BaseLayer
+    7400078: Bridge_Timber_Small_01.001|Cactus_01|Take 001|BaseLayer.001
+    7400080: Bridge_Timber_Small_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400082: Bridge_Timber_Small_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400084: Bridge_Timber_Small_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400086: Bridge_Timber_Small_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400088: Bridge_Timber_Small_01.001|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400090: Bridge_Timber_Small_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400092: Bridge_Timber_Small_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400094: Bridge_Timber_Small_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400096: Bridge_Timber_Small_01.001|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400098: Bridge_Timber_Small_01.001|Hill_Dirt_01|Take 001|BaseLayer
+    7400100: Bridge_Timber_Small_01.001|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400102: Bridge_Timber_Small_01.001|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400104: Bridge_Timber_Small_01.001|Mountain_Grass_01|Take 001|BaseLayer
+    7400106: Bridge_Timber_Small_01.001|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400108: Bridge_Timber_Small_01.001|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400110: Bridge_Timber_Small_01.001|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400112: Bridge_Timber_Small_01.001|Tree_Common_01.001|Take 001|BaseLayer
+    7400114: Bridge_Timber_Small_01.001|Tree_Common_01|Take 001|BaseLayer
+    7400116: Bridge_Timber_Small_01.001|Well_01.001|Take 001|BaseLayer
+    7400118: Bridge_Timber_Small_01.001|Well_01|Take 001|BaseLayer
+    7400120: Well_01|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400122: Well_01|Barrel_Sealed_01|Take 001|BaseLayer
+    7400124: Well_01|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400126: Well_01|Bone_Ribcage_02|Take 001|BaseLayer
+    7400128: Well_01|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400130: Well_01|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400132: Well_01|Cactus_01.001|Take 001|BaseLayer
+    7400134: Well_01|Cactus_01.001|Take 001|BaseLayer.001
+    7400136: Well_01|Cactus_01|Take 001|BaseLayer
+    7400138: Well_01|Cactus_01|Take 001|BaseLayer.001
+    7400140: Well_01|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400142: Well_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400144: Well_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400146: Well_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400148: Well_01|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400150: Well_01|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400152: Well_01|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400154: Well_01|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400156: Well_01|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400158: Well_01|Hill_Dirt_01|Take 001|BaseLayer
+    7400160: Well_01|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400162: Well_01|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400164: Well_01|Mountain_Grass_01|Take 001|BaseLayer
+    7400166: Well_01|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400168: Well_01|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400170: Well_01|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400172: Well_01|Tree_Common_01.001|Take 001|BaseLayer
+    7400174: Well_01|Tree_Common_01|Take 001|BaseLayer
+    7400176: Well_01|Well_01.001|Take 001|BaseLayer
+    7400178: Well_01|Well_01|Take 001|BaseLayer
+    7400180: Well_01.001|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400182: Well_01.001|Barrel_Sealed_01|Take 001|BaseLayer
+    7400184: Well_01.001|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400186: Well_01.001|Bone_Ribcage_02|Take 001|BaseLayer
+    7400188: Well_01.001|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400190: Well_01.001|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400192: Well_01.001|Cactus_01.001|Take 001|BaseLayer
+    7400194: Well_01.001|Cactus_01.001|Take 001|BaseLayer.001
+    7400196: Well_01.001|Cactus_01|Take 001|BaseLayer
+    7400198: Well_01.001|Cactus_01|Take 001|BaseLayer.001
+    7400200: Well_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400202: Well_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400204: Well_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400206: Well_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400208: Well_01.001|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400210: Well_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400212: Well_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400214: Well_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400216: Well_01.001|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400218: Well_01.001|Hill_Dirt_01|Take 001|BaseLayer
+    7400220: Well_01.001|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400222: Well_01.001|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400224: Well_01.001|Mountain_Grass_01|Take 001|BaseLayer
+    7400226: Well_01.001|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400228: Well_01.001|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400230: Well_01.001|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400232: Well_01.001|Tree_Common_01.001|Take 001|BaseLayer
+    7400234: Well_01.001|Tree_Common_01|Take 001|BaseLayer
+    7400236: Well_01.001|Well_01.001|Take 001|BaseLayer
+    7400238: Well_01.001|Well_01|Take 001|BaseLayer
+    7400240: Sign_Wooden_Blank_01|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400242: Sign_Wooden_Blank_01|Barrel_Sealed_01|Take 001|BaseLayer
+    7400244: Sign_Wooden_Blank_01|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400246: Sign_Wooden_Blank_01|Bone_Ribcage_02|Take 001|BaseLayer
+    7400248: Sign_Wooden_Blank_01|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400250: Sign_Wooden_Blank_01|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400252: Sign_Wooden_Blank_01|Cactus_01.001|Take 001|BaseLayer
+    7400254: Sign_Wooden_Blank_01|Cactus_01.001|Take 001|BaseLayer.001
+    7400256: Sign_Wooden_Blank_01|Cactus_01|Take 001|BaseLayer
+    7400258: Sign_Wooden_Blank_01|Cactus_01|Take 001|BaseLayer.001
+    7400260: Sign_Wooden_Blank_01|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400262: Sign_Wooden_Blank_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400264: Sign_Wooden_Blank_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400266: Sign_Wooden_Blank_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400268: Sign_Wooden_Blank_01|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400270: Sign_Wooden_Blank_01|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400272: Sign_Wooden_Blank_01|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400274: Sign_Wooden_Blank_01|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400276: Sign_Wooden_Blank_01|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400278: Sign_Wooden_Blank_01|Hill_Dirt_01|Take 001|BaseLayer
+    7400280: Sign_Wooden_Blank_01|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400282: Sign_Wooden_Blank_01|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400284: Sign_Wooden_Blank_01|Mountain_Grass_01|Take 001|BaseLayer
+    7400286: Sign_Wooden_Blank_01|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400288: Sign_Wooden_Blank_01|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400290: Sign_Wooden_Blank_01|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400292: Sign_Wooden_Blank_01|Tree_Common_01.001|Take 001|BaseLayer
+    7400294: Sign_Wooden_Blank_01|Tree_Common_01|Take 001|BaseLayer
+    7400296: Sign_Wooden_Blank_01|Well_01.001|Take 001|BaseLayer
+    7400298: Sign_Wooden_Blank_01|Well_01|Take 001|BaseLayer
+    7400300: Sign_Wooden_Blank_01.002|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400302: Sign_Wooden_Blank_01.002|Barrel_Sealed_01|Take 001|BaseLayer
+    7400304: Sign_Wooden_Blank_01.002|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400306: Sign_Wooden_Blank_01.002|Bone_Ribcage_02|Take 001|BaseLayer
+    7400308: Sign_Wooden_Blank_01.002|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400310: Sign_Wooden_Blank_01.002|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400312: Sign_Wooden_Blank_01.002|Cactus_01.001|Take 001|BaseLayer
+    7400314: Sign_Wooden_Blank_01.002|Cactus_01.001|Take 001|BaseLayer.001
+    7400316: Sign_Wooden_Blank_01.002|Cactus_01|Take 001|BaseLayer
+    7400318: Sign_Wooden_Blank_01.002|Cactus_01|Take 001|BaseLayer.001
+    7400320: Sign_Wooden_Blank_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400322: Sign_Wooden_Blank_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400324: Sign_Wooden_Blank_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400326: Sign_Wooden_Blank_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400328: Sign_Wooden_Blank_01.002|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400330: Sign_Wooden_Blank_01.002|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400332: Sign_Wooden_Blank_01.002|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400334: Sign_Wooden_Blank_01.002|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400336: Sign_Wooden_Blank_01.002|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400338: Sign_Wooden_Blank_01.002|Hill_Dirt_01|Take 001|BaseLayer
+    7400340: Sign_Wooden_Blank_01.002|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400342: Sign_Wooden_Blank_01.002|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400344: Sign_Wooden_Blank_01.002|Mountain_Grass_01|Take 001|BaseLayer
+    7400346: Sign_Wooden_Blank_01.002|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400348: Sign_Wooden_Blank_01.002|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400350: Sign_Wooden_Blank_01.002|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400352: Sign_Wooden_Blank_01.002|Tree_Common_01.001|Take 001|BaseLayer
+    7400354: Sign_Wooden_Blank_01.002|Tree_Common_01|Take 001|BaseLayer
+    7400356: Sign_Wooden_Blank_01.002|Well_01.001|Take 001|BaseLayer
+    7400358: Sign_Wooden_Blank_01.002|Well_01|Take 001|BaseLayer
+    7400360: Mountain_Grass_01|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400362: Mountain_Grass_01|Barrel_Sealed_01|Take 001|BaseLayer
+    7400364: Mountain_Grass_01|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400366: Mountain_Grass_01|Bone_Ribcage_02|Take 001|BaseLayer
+    7400368: Mountain_Grass_01|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400370: Mountain_Grass_01|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400372: Mountain_Grass_01|Cactus_01.001|Take 001|BaseLayer
+    7400374: Mountain_Grass_01|Cactus_01.001|Take 001|BaseLayer.001
+    7400376: Mountain_Grass_01|Cactus_01|Take 001|BaseLayer
+    7400378: Mountain_Grass_01|Cactus_01|Take 001|BaseLayer.001
+    7400380: Mountain_Grass_01|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400382: Mountain_Grass_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400384: Mountain_Grass_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400386: Mountain_Grass_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400388: Mountain_Grass_01|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400390: Mountain_Grass_01|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400392: Mountain_Grass_01|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400394: Mountain_Grass_01|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400396: Mountain_Grass_01|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400398: Mountain_Grass_01|Hill_Dirt_01|Take 001|BaseLayer
+    7400400: Mountain_Grass_01|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400402: Mountain_Grass_01|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400404: Mountain_Grass_01|Mountain_Grass_01|Take 001|BaseLayer
+    7400406: Mountain_Grass_01|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400408: Mountain_Grass_01|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400410: Mountain_Grass_01|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400412: Mountain_Grass_01|Tree_Common_01.001|Take 001|BaseLayer
+    7400414: Mountain_Grass_01|Tree_Common_01|Take 001|BaseLayer
+    7400416: Mountain_Grass_01|Well_01.001|Take 001|BaseLayer
+    7400418: Mountain_Grass_01|Well_01|Take 001|BaseLayer
+    7400420: Mountain_Grass_01.001|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400422: Mountain_Grass_01.001|Barrel_Sealed_01|Take 001|BaseLayer
+    7400424: Mountain_Grass_01.001|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400426: Mountain_Grass_01.001|Bone_Ribcage_02|Take 001|BaseLayer
+    7400428: Mountain_Grass_01.001|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400430: Mountain_Grass_01.001|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400432: Mountain_Grass_01.001|Cactus_01.001|Take 001|BaseLayer
+    7400434: Mountain_Grass_01.001|Cactus_01.001|Take 001|BaseLayer.001
+    7400436: Mountain_Grass_01.001|Cactus_01|Take 001|BaseLayer
+    7400438: Mountain_Grass_01.001|Cactus_01|Take 001|BaseLayer.001
+    7400440: Mountain_Grass_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400442: Mountain_Grass_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400444: Mountain_Grass_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400446: Mountain_Grass_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400448: Mountain_Grass_01.001|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400450: Mountain_Grass_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400452: Mountain_Grass_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400454: Mountain_Grass_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400456: Mountain_Grass_01.001|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400458: Mountain_Grass_01.001|Hill_Dirt_01|Take 001|BaseLayer
+    7400460: Mountain_Grass_01.001|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400462: Mountain_Grass_01.001|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400464: Mountain_Grass_01.001|Mountain_Grass_01|Take 001|BaseLayer
+    7400466: Mountain_Grass_01.001|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400468: Mountain_Grass_01.001|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400470: Mountain_Grass_01.001|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400472: Mountain_Grass_01.001|Tree_Common_01.001|Take 001|BaseLayer
+    7400474: Mountain_Grass_01.001|Tree_Common_01|Take 001|BaseLayer
+    7400476: Mountain_Grass_01.001|Well_01.001|Take 001|BaseLayer
+    7400478: Mountain_Grass_01.001|Well_01|Take 001|BaseLayer
+    7400480: Hill_Dirt_01|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400482: Hill_Dirt_01|Barrel_Sealed_01|Take 001|BaseLayer
+    7400484: Hill_Dirt_01|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400486: Hill_Dirt_01|Bone_Ribcage_02|Take 001|BaseLayer
+    7400488: Hill_Dirt_01|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400490: Hill_Dirt_01|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400492: Hill_Dirt_01|Cactus_01.001|Take 001|BaseLayer
+    7400494: Hill_Dirt_01|Cactus_01.001|Take 001|BaseLayer.001
+    7400496: Hill_Dirt_01|Cactus_01|Take 001|BaseLayer
+    7400498: Hill_Dirt_01|Cactus_01|Take 001|BaseLayer.001
+    7400500: Hill_Dirt_01|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400502: Hill_Dirt_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400504: Hill_Dirt_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400506: Hill_Dirt_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400508: Hill_Dirt_01|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400510: Hill_Dirt_01|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400512: Hill_Dirt_01|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400514: Hill_Dirt_01|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400516: Hill_Dirt_01|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400518: Hill_Dirt_01|Hill_Dirt_01|Take 001|BaseLayer
+    7400520: Hill_Dirt_01|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400522: Hill_Dirt_01|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400524: Hill_Dirt_01|Mountain_Grass_01|Take 001|BaseLayer
+    7400526: Hill_Dirt_01|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400528: Hill_Dirt_01|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400530: Hill_Dirt_01|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400532: Hill_Dirt_01|Tree_Common_01.001|Take 001|BaseLayer
+    7400534: Hill_Dirt_01|Tree_Common_01|Take 001|BaseLayer
+    7400536: Hill_Dirt_01|Well_01.001|Take 001|BaseLayer
+    7400538: Hill_Dirt_01|Well_01|Take 001|BaseLayer
+    7400540: Cactus_01|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400542: Cactus_01|Barrel_Sealed_01|Take 001|BaseLayer
+    7400544: Cactus_01|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400546: Cactus_01|Bone_Ribcage_02|Take 001|BaseLayer
+    7400548: Cactus_01|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400550: Cactus_01|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400552: Cactus_01|Cactus_01.001|Take 001|BaseLayer
+    7400554: Cactus_01|Cactus_01.001|Take 001|BaseLayer.001
+    7400556: Cactus_01|Cactus_01|Take 001|BaseLayer
+    7400558: Cactus_01|Cactus_01|Take 001|BaseLayer.001
+    7400560: Cactus_01|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400562: Cactus_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400564: Cactus_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400566: Cactus_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400568: Cactus_01|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400570: Cactus_01|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400572: Cactus_01|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400574: Cactus_01|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400576: Cactus_01|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400578: Cactus_01|Hill_Dirt_01|Take 001|BaseLayer
+    7400580: Cactus_01|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400582: Cactus_01|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400584: Cactus_01|Mountain_Grass_01|Take 001|BaseLayer
+    7400586: Cactus_01|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400588: Cactus_01|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400590: Cactus_01|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400592: Cactus_01|Tree_Common_01.001|Take 001|BaseLayer
+    7400594: Cactus_01|Tree_Common_01|Take 001|BaseLayer
+    7400596: Cactus_01|Well_01.001|Take 001|BaseLayer
+    7400598: Cactus_01|Well_01|Take 001|BaseLayer
+    7400600: Cactus_01.001|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400602: Cactus_01.001|Barrel_Sealed_01|Take 001|BaseLayer
+    7400604: Cactus_01.001|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400606: Cactus_01.001|Bone_Ribcage_02|Take 001|BaseLayer
+    7400608: Cactus_01.001|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400610: Cactus_01.001|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400612: Cactus_01.001|Cactus_01.001|Take 001|BaseLayer
+    7400614: Cactus_01.001|Cactus_01.001|Take 001|BaseLayer.001
+    7400616: Cactus_01.001|Cactus_01|Take 001|BaseLayer
+    7400618: Cactus_01.001|Cactus_01|Take 001|BaseLayer.001
+    7400620: Cactus_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400622: Cactus_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400624: Cactus_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400626: Cactus_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400628: Cactus_01.001|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400630: Cactus_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400632: Cactus_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400634: Cactus_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400636: Cactus_01.001|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400638: Cactus_01.001|Hill_Dirt_01|Take 001|BaseLayer
+    7400640: Cactus_01.001|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400642: Cactus_01.001|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400644: Cactus_01.001|Mountain_Grass_01|Take 001|BaseLayer
+    7400646: Cactus_01.001|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400648: Cactus_01.001|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400650: Cactus_01.001|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400652: Cactus_01.001|Tree_Common_01.001|Take 001|BaseLayer
+    7400654: Cactus_01.001|Tree_Common_01|Take 001|BaseLayer
+    7400656: Cactus_01.001|Well_01.001|Take 001|BaseLayer
+    7400658: Cactus_01.001|Well_01|Take 001|BaseLayer
+    7400660: Bone_Ribcage_02|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400662: Bone_Ribcage_02|Barrel_Sealed_01|Take 001|BaseLayer
+    7400664: Bone_Ribcage_02|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400666: Bone_Ribcage_02|Bone_Ribcage_02|Take 001|BaseLayer
+    7400668: Bone_Ribcage_02|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400670: Bone_Ribcage_02|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400672: Bone_Ribcage_02|Cactus_01.001|Take 001|BaseLayer
+    7400674: Bone_Ribcage_02|Cactus_01.001|Take 001|BaseLayer.001
+    7400676: Bone_Ribcage_02|Cactus_01|Take 001|BaseLayer
+    7400678: Bone_Ribcage_02|Cactus_01|Take 001|BaseLayer.001
+    7400680: Bone_Ribcage_02|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400682: Bone_Ribcage_02|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400684: Bone_Ribcage_02|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400686: Bone_Ribcage_02|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400688: Bone_Ribcage_02|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400690: Bone_Ribcage_02|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400692: Bone_Ribcage_02|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400694: Bone_Ribcage_02|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400696: Bone_Ribcage_02|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400698: Bone_Ribcage_02|Hill_Dirt_01|Take 001|BaseLayer
+    7400700: Bone_Ribcage_02|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400702: Bone_Ribcage_02|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400704: Bone_Ribcage_02|Mountain_Grass_01|Take 001|BaseLayer
+    7400706: Bone_Ribcage_02|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400708: Bone_Ribcage_02|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400710: Bone_Ribcage_02|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400712: Bone_Ribcage_02|Tree_Common_01.001|Take 001|BaseLayer
+    7400714: Bone_Ribcage_02|Tree_Common_01|Take 001|BaseLayer
+    7400716: Bone_Ribcage_02|Well_01.001|Take 001|BaseLayer
+    7400718: Bone_Ribcage_02|Well_01|Take 001|BaseLayer
+    7400720: Bone_Ribcage_02.001|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400722: Bone_Ribcage_02.001|Barrel_Sealed_01|Take 001|BaseLayer
+    7400724: Bone_Ribcage_02.001|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400726: Bone_Ribcage_02.001|Bone_Ribcage_02|Take 001|BaseLayer
+    7400728: Bone_Ribcage_02.001|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400730: Bone_Ribcage_02.001|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400732: Bone_Ribcage_02.001|Cactus_01.001|Take 001|BaseLayer
+    7400734: Bone_Ribcage_02.001|Cactus_01.001|Take 001|BaseLayer.001
+    7400736: Bone_Ribcage_02.001|Cactus_01|Take 001|BaseLayer
+    7400738: Bone_Ribcage_02.001|Cactus_01|Take 001|BaseLayer.001
+    7400740: Bone_Ribcage_02.001|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400742: Bone_Ribcage_02.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400744: Bone_Ribcage_02.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400746: Bone_Ribcage_02.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400748: Bone_Ribcage_02.001|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400750: Bone_Ribcage_02.001|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400752: Bone_Ribcage_02.001|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400754: Bone_Ribcage_02.001|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400756: Bone_Ribcage_02.001|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400758: Bone_Ribcage_02.001|Hill_Dirt_01|Take 001|BaseLayer
+    7400760: Bone_Ribcage_02.001|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400762: Bone_Ribcage_02.001|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400764: Bone_Ribcage_02.001|Mountain_Grass_01|Take 001|BaseLayer
+    7400766: Bone_Ribcage_02.001|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400768: Bone_Ribcage_02.001|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400770: Bone_Ribcage_02.001|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400772: Bone_Ribcage_02.001|Tree_Common_01.001|Take 001|BaseLayer
+    7400774: Bone_Ribcage_02.001|Tree_Common_01|Take 001|BaseLayer
+    7400776: Bone_Ribcage_02.001|Well_01.001|Take 001|BaseLayer
+    7400778: Bone_Ribcage_02.001|Well_01|Take 001|BaseLayer
+    7400780: Barrel_Sealed_01|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400782: Barrel_Sealed_01|Barrel_Sealed_01|Take 001|BaseLayer
+    7400784: Barrel_Sealed_01|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400786: Barrel_Sealed_01|Bone_Ribcage_02|Take 001|BaseLayer
+    7400788: Barrel_Sealed_01|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400790: Barrel_Sealed_01|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400792: Barrel_Sealed_01|Cactus_01.001|Take 001|BaseLayer
+    7400794: Barrel_Sealed_01|Cactus_01.001|Take 001|BaseLayer.001
+    7400796: Barrel_Sealed_01|Cactus_01|Take 001|BaseLayer
+    7400798: Barrel_Sealed_01|Cactus_01|Take 001|BaseLayer.001
+    7400800: Barrel_Sealed_01|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400802: Barrel_Sealed_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400804: Barrel_Sealed_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400806: Barrel_Sealed_01|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400808: Barrel_Sealed_01|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400810: Barrel_Sealed_01|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400812: Barrel_Sealed_01|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400814: Barrel_Sealed_01|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400816: Barrel_Sealed_01|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400818: Barrel_Sealed_01|Hill_Dirt_01|Take 001|BaseLayer
+    7400820: Barrel_Sealed_01|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400822: Barrel_Sealed_01|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400824: Barrel_Sealed_01|Mountain_Grass_01|Take 001|BaseLayer
+    7400826: Barrel_Sealed_01|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400828: Barrel_Sealed_01|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400830: Barrel_Sealed_01|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400832: Barrel_Sealed_01|Tree_Common_01.001|Take 001|BaseLayer
+    7400834: Barrel_Sealed_01|Tree_Common_01|Take 001|BaseLayer
+    7400836: Barrel_Sealed_01|Well_01.001|Take 001|BaseLayer
+    7400838: Barrel_Sealed_01|Well_01|Take 001|BaseLayer
+    7400840: Barrel_Sealed_01.001|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400842: Barrel_Sealed_01.001|Barrel_Sealed_01|Take 001|BaseLayer
+    7400844: Barrel_Sealed_01.001|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400846: Barrel_Sealed_01.001|Bone_Ribcage_02|Take 001|BaseLayer
+    7400848: Barrel_Sealed_01.001|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400850: Barrel_Sealed_01.001|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400852: Barrel_Sealed_01.001|Cactus_01.001|Take 001|BaseLayer
+    7400854: Barrel_Sealed_01.001|Cactus_01.001|Take 001|BaseLayer.001
+    7400856: Barrel_Sealed_01.001|Cactus_01|Take 001|BaseLayer
+    7400858: Barrel_Sealed_01.001|Cactus_01|Take 001|BaseLayer.001
+    7400860: Barrel_Sealed_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400862: Barrel_Sealed_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400864: Barrel_Sealed_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400866: Barrel_Sealed_01.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400868: Barrel_Sealed_01.001|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400870: Barrel_Sealed_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400872: Barrel_Sealed_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400874: Barrel_Sealed_01.001|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400876: Barrel_Sealed_01.001|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400878: Barrel_Sealed_01.001|Hill_Dirt_01|Take 001|BaseLayer
+    7400880: Barrel_Sealed_01.001|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400882: Barrel_Sealed_01.001|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400884: Barrel_Sealed_01.001|Mountain_Grass_01|Take 001|BaseLayer
+    7400886: Barrel_Sealed_01.001|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400888: Barrel_Sealed_01.001|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400890: Barrel_Sealed_01.001|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400892: Barrel_Sealed_01.001|Tree_Common_01.001|Take 001|BaseLayer
+    7400894: Barrel_Sealed_01.001|Tree_Common_01|Take 001|BaseLayer
+    7400896: Barrel_Sealed_01.001|Well_01.001|Take 001|BaseLayer
+    7400898: Barrel_Sealed_01.001|Well_01|Take 001|BaseLayer
+    7400900: Fence_Timber_Large_02|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400902: Fence_Timber_Large_02|Barrel_Sealed_01|Take 001|BaseLayer
+    7400904: Fence_Timber_Large_02|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400906: Fence_Timber_Large_02|Bone_Ribcage_02|Take 001|BaseLayer
+    7400908: Fence_Timber_Large_02|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400910: Fence_Timber_Large_02|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400912: Fence_Timber_Large_02|Cactus_01.001|Take 001|BaseLayer
+    7400914: Fence_Timber_Large_02|Cactus_01.001|Take 001|BaseLayer.001
+    7400916: Fence_Timber_Large_02|Cactus_01|Take 001|BaseLayer
+    7400918: Fence_Timber_Large_02|Cactus_01|Take 001|BaseLayer.001
+    7400920: Fence_Timber_Large_02|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400922: Fence_Timber_Large_02|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400924: Fence_Timber_Large_02|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400926: Fence_Timber_Large_02|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400928: Fence_Timber_Large_02|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400930: Fence_Timber_Large_02|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400932: Fence_Timber_Large_02|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400934: Fence_Timber_Large_02|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400936: Fence_Timber_Large_02|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400938: Fence_Timber_Large_02|Hill_Dirt_01|Take 001|BaseLayer
+    7400940: Fence_Timber_Large_02|Hill_Dirt_01|Take 001|BaseLayer.001
+    7400942: Fence_Timber_Large_02|Mountain_Grass_01.001|Take 001|BaseLayer
+    7400944: Fence_Timber_Large_02|Mountain_Grass_01|Take 001|BaseLayer
+    7400946: Fence_Timber_Large_02|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7400948: Fence_Timber_Large_02|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7400950: Fence_Timber_Large_02|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7400952: Fence_Timber_Large_02|Tree_Common_01.001|Take 001|BaseLayer
+    7400954: Fence_Timber_Large_02|Tree_Common_01|Take 001|BaseLayer
+    7400956: Fence_Timber_Large_02|Well_01.001|Take 001|BaseLayer
+    7400958: Fence_Timber_Large_02|Well_01|Take 001|BaseLayer
+    7400960: Fence_Timber_Large_02.001|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7400962: Fence_Timber_Large_02.001|Barrel_Sealed_01|Take 001|BaseLayer
+    7400964: Fence_Timber_Large_02.001|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7400966: Fence_Timber_Large_02.001|Bone_Ribcage_02|Take 001|BaseLayer
+    7400968: Fence_Timber_Large_02.001|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7400970: Fence_Timber_Large_02.001|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7400972: Fence_Timber_Large_02.001|Cactus_01.001|Take 001|BaseLayer
+    7400974: Fence_Timber_Large_02.001|Cactus_01.001|Take 001|BaseLayer.001
+    7400976: Fence_Timber_Large_02.001|Cactus_01|Take 001|BaseLayer
+    7400978: Fence_Timber_Large_02.001|Cactus_01|Take 001|BaseLayer.001
+    7400980: Fence_Timber_Large_02.001|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7400982: Fence_Timber_Large_02.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7400984: Fence_Timber_Large_02.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7400986: Fence_Timber_Large_02.001|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7400988: Fence_Timber_Large_02.001|Fence_Timber_Large_02|Take 001|BaseLayer
+    7400990: Fence_Timber_Large_02.001|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7400992: Fence_Timber_Large_02.001|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7400994: Fence_Timber_Large_02.001|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7400996: Fence_Timber_Large_02.001|Hill_Dirt_01.001|Take 001|BaseLayer
+    7400998: Fence_Timber_Large_02.001|Hill_Dirt_01|Take 001|BaseLayer
+    7401000: Fence_Timber_Large_02.001|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401002: Fence_Timber_Large_02.001|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401004: Fence_Timber_Large_02.001|Mountain_Grass_01|Take 001|BaseLayer
+    7401006: Fence_Timber_Large_02.001|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401008: Fence_Timber_Large_02.001|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401010: Fence_Timber_Large_02.001|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401012: Fence_Timber_Large_02.001|Tree_Common_01.001|Take 001|BaseLayer
+    7401014: Fence_Timber_Large_02.001|Tree_Common_01|Take 001|BaseLayer
+    7401016: Fence_Timber_Large_02.001|Well_01.001|Take 001|BaseLayer
+    7401018: Fence_Timber_Large_02.001|Well_01|Take 001|BaseLayer
+    7401020: Fence_Timber_Large_02.002|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7401022: Fence_Timber_Large_02.002|Barrel_Sealed_01|Take 001|BaseLayer
+    7401024: Fence_Timber_Large_02.002|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7401026: Fence_Timber_Large_02.002|Bone_Ribcage_02|Take 001|BaseLayer
+    7401028: Fence_Timber_Large_02.002|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7401030: Fence_Timber_Large_02.002|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7401032: Fence_Timber_Large_02.002|Cactus_01.001|Take 001|BaseLayer
+    7401034: Fence_Timber_Large_02.002|Cactus_01.001|Take 001|BaseLayer.001
+    7401036: Fence_Timber_Large_02.002|Cactus_01|Take 001|BaseLayer
+    7401038: Fence_Timber_Large_02.002|Cactus_01|Take 001|BaseLayer.001
+    7401040: Fence_Timber_Large_02.002|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7401042: Fence_Timber_Large_02.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7401044: Fence_Timber_Large_02.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7401046: Fence_Timber_Large_02.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7401048: Fence_Timber_Large_02.002|Fence_Timber_Large_02|Take 001|BaseLayer
+    7401050: Fence_Timber_Large_02.002|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7401052: Fence_Timber_Large_02.002|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7401054: Fence_Timber_Large_02.002|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7401056: Fence_Timber_Large_02.002|Hill_Dirt_01.001|Take 001|BaseLayer
+    7401058: Fence_Timber_Large_02.002|Hill_Dirt_01|Take 001|BaseLayer
+    7401060: Fence_Timber_Large_02.002|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401062: Fence_Timber_Large_02.002|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401064: Fence_Timber_Large_02.002|Mountain_Grass_01|Take 001|BaseLayer
+    7401066: Fence_Timber_Large_02.002|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401068: Fence_Timber_Large_02.002|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401070: Fence_Timber_Large_02.002|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401072: Fence_Timber_Large_02.002|Tree_Common_01.001|Take 001|BaseLayer
+    7401074: Fence_Timber_Large_02.002|Tree_Common_01|Take 001|BaseLayer
+    7401076: Fence_Timber_Large_02.002|Well_01.001|Take 001|BaseLayer
+    7401078: Fence_Timber_Large_02.002|Well_01|Take 001|BaseLayer
+    7401080: Fence_Timber_Large_02.003|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7401082: Fence_Timber_Large_02.003|Barrel_Sealed_01|Take 001|BaseLayer
+    7401084: Fence_Timber_Large_02.003|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7401086: Fence_Timber_Large_02.003|Bone_Ribcage_02|Take 001|BaseLayer
+    7401088: Fence_Timber_Large_02.003|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7401090: Fence_Timber_Large_02.003|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7401092: Fence_Timber_Large_02.003|Cactus_01.001|Take 001|BaseLayer
+    7401094: Fence_Timber_Large_02.003|Cactus_01.001|Take 001|BaseLayer.001
+    7401096: Fence_Timber_Large_02.003|Cactus_01|Take 001|BaseLayer
+    7401098: Fence_Timber_Large_02.003|Cactus_01|Take 001|BaseLayer.001
+    7401100: Fence_Timber_Large_02.003|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7401102: Fence_Timber_Large_02.003|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7401104: Fence_Timber_Large_02.003|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7401106: Fence_Timber_Large_02.003|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7401108: Fence_Timber_Large_02.003|Fence_Timber_Large_02|Take 001|BaseLayer
+    7401110: Fence_Timber_Large_02.003|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7401112: Fence_Timber_Large_02.003|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7401114: Fence_Timber_Large_02.003|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7401116: Fence_Timber_Large_02.003|Hill_Dirt_01.001|Take 001|BaseLayer
+    7401118: Fence_Timber_Large_02.003|Hill_Dirt_01|Take 001|BaseLayer
+    7401120: Fence_Timber_Large_02.003|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401122: Fence_Timber_Large_02.003|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401124: Fence_Timber_Large_02.003|Mountain_Grass_01|Take 001|BaseLayer
+    7401126: Fence_Timber_Large_02.003|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401128: Fence_Timber_Large_02.003|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401130: Fence_Timber_Large_02.003|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401132: Fence_Timber_Large_02.003|Tree_Common_01.001|Take 001|BaseLayer
+    7401134: Fence_Timber_Large_02.003|Tree_Common_01|Take 001|BaseLayer
+    7401136: Fence_Timber_Large_02.003|Well_01.001|Take 001|BaseLayer
+    7401138: Fence_Timber_Large_02.003|Well_01|Take 001|BaseLayer
+    7401140: Fence_Timber_Large_02.004|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7401142: Fence_Timber_Large_02.004|Barrel_Sealed_01|Take 001|BaseLayer
+    7401144: Fence_Timber_Large_02.004|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7401146: Fence_Timber_Large_02.004|Bone_Ribcage_02|Take 001|BaseLayer
+    7401148: Fence_Timber_Large_02.004|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7401150: Fence_Timber_Large_02.004|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7401152: Fence_Timber_Large_02.004|Cactus_01.001|Take 001|BaseLayer
+    7401154: Fence_Timber_Large_02.004|Cactus_01.001|Take 001|BaseLayer.001
+    7401156: Fence_Timber_Large_02.004|Cactus_01|Take 001|BaseLayer
+    7401158: Fence_Timber_Large_02.004|Cactus_01|Take 001|BaseLayer.001
+    7401160: Fence_Timber_Large_02.004|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7401162: Fence_Timber_Large_02.004|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7401164: Fence_Timber_Large_02.004|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7401166: Fence_Timber_Large_02.004|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7401168: Fence_Timber_Large_02.004|Fence_Timber_Large_02|Take 001|BaseLayer
+    7401170: Fence_Timber_Large_02.004|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7401172: Fence_Timber_Large_02.004|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7401174: Fence_Timber_Large_02.004|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7401176: Fence_Timber_Large_02.004|Hill_Dirt_01.001|Take 001|BaseLayer
+    7401178: Fence_Timber_Large_02.004|Hill_Dirt_01|Take 001|BaseLayer
+    7401180: Fence_Timber_Large_02.004|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401182: Fence_Timber_Large_02.004|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401184: Fence_Timber_Large_02.004|Mountain_Grass_01|Take 001|BaseLayer
+    7401186: Fence_Timber_Large_02.004|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401188: Fence_Timber_Large_02.004|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401190: Fence_Timber_Large_02.004|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401192: Fence_Timber_Large_02.004|Tree_Common_01.001|Take 001|BaseLayer
+    7401194: Fence_Timber_Large_02.004|Tree_Common_01|Take 001|BaseLayer
+    7401196: Fence_Timber_Large_02.004|Well_01.001|Take 001|BaseLayer
+    7401198: Fence_Timber_Large_02.004|Well_01|Take 001|BaseLayer
+    7401200: Fence_Timber_Large_02.005|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7401202: Fence_Timber_Large_02.005|Barrel_Sealed_01|Take 001|BaseLayer
+    7401204: Fence_Timber_Large_02.005|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7401206: Fence_Timber_Large_02.005|Bone_Ribcage_02|Take 001|BaseLayer
+    7401208: Fence_Timber_Large_02.005|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7401210: Fence_Timber_Large_02.005|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7401212: Fence_Timber_Large_02.005|Cactus_01.001|Take 001|BaseLayer
+    7401214: Fence_Timber_Large_02.005|Cactus_01.001|Take 001|BaseLayer.001
+    7401216: Fence_Timber_Large_02.005|Cactus_01|Take 001|BaseLayer
+    7401218: Fence_Timber_Large_02.005|Cactus_01|Take 001|BaseLayer.001
+    7401220: Fence_Timber_Large_02.005|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7401222: Fence_Timber_Large_02.005|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7401224: Fence_Timber_Large_02.005|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7401226: Fence_Timber_Large_02.005|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7401228: Fence_Timber_Large_02.005|Fence_Timber_Large_02|Take 001|BaseLayer
+    7401230: Fence_Timber_Large_02.005|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7401232: Fence_Timber_Large_02.005|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7401234: Fence_Timber_Large_02.005|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7401236: Fence_Timber_Large_02.005|Hill_Dirt_01.001|Take 001|BaseLayer
+    7401238: Fence_Timber_Large_02.005|Hill_Dirt_01|Take 001|BaseLayer
+    7401240: Fence_Timber_Large_02.005|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401242: Fence_Timber_Large_02.005|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401244: Fence_Timber_Large_02.005|Mountain_Grass_01|Take 001|BaseLayer
+    7401246: Fence_Timber_Large_02.005|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401248: Fence_Timber_Large_02.005|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401250: Fence_Timber_Large_02.005|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401252: Fence_Timber_Large_02.005|Tree_Common_01.001|Take 001|BaseLayer
+    7401254: Fence_Timber_Large_02.005|Tree_Common_01|Take 001|BaseLayer
+    7401256: Fence_Timber_Large_02.005|Well_01.001|Take 001|BaseLayer
+    7401258: Fence_Timber_Large_02.005|Well_01|Take 001|BaseLayer
+    7401260: Fence_Timber_Large_02.006|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7401262: Fence_Timber_Large_02.006|Barrel_Sealed_01|Take 001|BaseLayer
+    7401264: Fence_Timber_Large_02.006|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7401266: Fence_Timber_Large_02.006|Bone_Ribcage_02|Take 001|BaseLayer
+    7401268: Fence_Timber_Large_02.006|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7401270: Fence_Timber_Large_02.006|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7401272: Fence_Timber_Large_02.006|Cactus_01.001|Take 001|BaseLayer
+    7401274: Fence_Timber_Large_02.006|Cactus_01.001|Take 001|BaseLayer.001
+    7401276: Fence_Timber_Large_02.006|Cactus_01|Take 001|BaseLayer
+    7401278: Fence_Timber_Large_02.006|Cactus_01|Take 001|BaseLayer.001
+    7401280: Fence_Timber_Large_02.006|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7401282: Fence_Timber_Large_02.006|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7401284: Fence_Timber_Large_02.006|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7401286: Fence_Timber_Large_02.006|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7401288: Fence_Timber_Large_02.006|Fence_Timber_Large_02|Take 001|BaseLayer
+    7401290: Fence_Timber_Large_02.006|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7401292: Fence_Timber_Large_02.006|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7401294: Fence_Timber_Large_02.006|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7401296: Fence_Timber_Large_02.006|Hill_Dirt_01.001|Take 001|BaseLayer
+    7401298: Fence_Timber_Large_02.006|Hill_Dirt_01|Take 001|BaseLayer
+    7401300: Fence_Timber_Large_02.006|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401302: Fence_Timber_Large_02.006|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401304: Fence_Timber_Large_02.006|Mountain_Grass_01|Take 001|BaseLayer
+    7401306: Fence_Timber_Large_02.006|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401308: Fence_Timber_Large_02.006|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401310: Fence_Timber_Large_02.006|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401312: Fence_Timber_Large_02.006|Tree_Common_01.001|Take 001|BaseLayer
+    7401314: Fence_Timber_Large_02.006|Tree_Common_01|Take 001|BaseLayer
+    7401316: Fence_Timber_Large_02.006|Well_01.001|Take 001|BaseLayer
+    7401318: Fence_Timber_Large_02.006|Well_01|Take 001|BaseLayer
+    7401320: Fence_Timber_Large_02.007|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7401322: Fence_Timber_Large_02.007|Barrel_Sealed_01|Take 001|BaseLayer
+    7401324: Fence_Timber_Large_02.007|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7401326: Fence_Timber_Large_02.007|Bone_Ribcage_02|Take 001|BaseLayer
+    7401328: Fence_Timber_Large_02.007|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7401330: Fence_Timber_Large_02.007|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7401332: Fence_Timber_Large_02.007|Cactus_01.001|Take 001|BaseLayer
+    7401334: Fence_Timber_Large_02.007|Cactus_01.001|Take 001|BaseLayer.001
+    7401336: Fence_Timber_Large_02.007|Cactus_01|Take 001|BaseLayer
+    7401338: Fence_Timber_Large_02.007|Cactus_01|Take 001|BaseLayer.001
+    7401340: Fence_Timber_Large_02.007|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7401342: Fence_Timber_Large_02.007|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7401344: Fence_Timber_Large_02.007|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7401346: Fence_Timber_Large_02.007|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7401348: Fence_Timber_Large_02.007|Fence_Timber_Large_02|Take 001|BaseLayer
+    7401350: Fence_Timber_Large_02.007|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7401352: Fence_Timber_Large_02.007|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7401354: Fence_Timber_Large_02.007|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7401356: Fence_Timber_Large_02.007|Hill_Dirt_01.001|Take 001|BaseLayer
+    7401358: Fence_Timber_Large_02.007|Hill_Dirt_01|Take 001|BaseLayer
+    7401360: Fence_Timber_Large_02.007|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401362: Fence_Timber_Large_02.007|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401364: Fence_Timber_Large_02.007|Mountain_Grass_01|Take 001|BaseLayer
+    7401366: Fence_Timber_Large_02.007|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401368: Fence_Timber_Large_02.007|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401370: Fence_Timber_Large_02.007|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401372: Fence_Timber_Large_02.007|Tree_Common_01.001|Take 001|BaseLayer
+    7401374: Fence_Timber_Large_02.007|Tree_Common_01|Take 001|BaseLayer
+    7401376: Fence_Timber_Large_02.007|Well_01.001|Take 001|BaseLayer
+    7401378: Fence_Timber_Large_02.007|Well_01|Take 001|BaseLayer
+    7401380: Cactus_01.002|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7401382: Cactus_01.002|Barrel_Sealed_01|Take 001|BaseLayer
+    7401384: Cactus_01.002|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7401386: Cactus_01.002|Bone_Ribcage_02|Take 001|BaseLayer
+    7401388: Cactus_01.002|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7401390: Cactus_01.002|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7401392: Cactus_01.002|Cactus_01.001|Take 001|BaseLayer
+    7401394: Cactus_01.002|Cactus_01.001|Take 001|BaseLayer.001
+    7401396: Cactus_01.002|Cactus_01|Take 001|BaseLayer
+    7401398: Cactus_01.002|Cactus_01|Take 001|BaseLayer.001
+    7401400: Cactus_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7401402: Cactus_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7401404: Cactus_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7401406: Cactus_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7401408: Cactus_01.002|Fence_Timber_Large_02|Take 001|BaseLayer
+    7401410: Cactus_01.002|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7401412: Cactus_01.002|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7401414: Cactus_01.002|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7401416: Cactus_01.002|Hill_Dirt_01.001|Take 001|BaseLayer
+    7401418: Cactus_01.002|Hill_Dirt_01|Take 001|BaseLayer
+    7401420: Cactus_01.002|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401422: Cactus_01.002|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401424: Cactus_01.002|Mountain_Grass_01|Take 001|BaseLayer
+    7401426: Cactus_01.002|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401428: Cactus_01.002|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401430: Cactus_01.002|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401432: Cactus_01.002|Tree_Common_01.001|Take 001|BaseLayer
+    7401434: Cactus_01.002|Tree_Common_01|Take 001|BaseLayer
+    7401436: Cactus_01.002|Well_01.001|Take 001|BaseLayer
+    7401438: Cactus_01.002|Well_01|Take 001|BaseLayer
+    7401440: Cactus_01.003|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7401442: Cactus_01.003|Barrel_Sealed_01|Take 001|BaseLayer
+    7401444: Cactus_01.003|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7401446: Cactus_01.003|Bone_Ribcage_02|Take 001|BaseLayer
+    7401448: Cactus_01.003|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7401450: Cactus_01.003|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7401452: Cactus_01.003|Cactus_01.001|Take 001|BaseLayer
+    7401454: Cactus_01.003|Cactus_01.001|Take 001|BaseLayer.001
+    7401456: Cactus_01.003|Cactus_01|Take 001|BaseLayer
+    7401458: Cactus_01.003|Cactus_01|Take 001|BaseLayer.001
+    7401460: Cactus_01.003|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7401462: Cactus_01.003|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7401464: Cactus_01.003|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7401466: Cactus_01.003|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7401468: Cactus_01.003|Fence_Timber_Large_02|Take 001|BaseLayer
+    7401470: Cactus_01.003|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7401472: Cactus_01.003|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7401474: Cactus_01.003|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7401476: Cactus_01.003|Hill_Dirt_01.001|Take 001|BaseLayer
+    7401478: Cactus_01.003|Hill_Dirt_01|Take 001|BaseLayer
+    7401480: Cactus_01.003|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401482: Cactus_01.003|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401484: Cactus_01.003|Mountain_Grass_01|Take 001|BaseLayer
+    7401486: Cactus_01.003|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401488: Cactus_01.003|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401490: Cactus_01.003|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401492: Cactus_01.003|Tree_Common_01.001|Take 001|BaseLayer
+    7401494: Cactus_01.003|Tree_Common_01|Take 001|BaseLayer
+    7401496: Cactus_01.003|Well_01.001|Take 001|BaseLayer
+    7401498: Cactus_01.003|Well_01|Take 001|BaseLayer
+    7401500: Hill_Dirt_01.002|Barrel_Sealed_01.001|Take 001|BaseLayer
+    7401502: Hill_Dirt_01.002|Barrel_Sealed_01|Take 001|BaseLayer
+    7401504: Hill_Dirt_01.002|Bone_Ribcage_02.001|Take 001|BaseLayer
+    7401506: Hill_Dirt_01.002|Bone_Ribcage_02|Take 001|BaseLayer
+    7401508: Hill_Dirt_01.002|Bridge_Timber_Small_01.001|Take 001|BaseLayer
+    7401510: Hill_Dirt_01.002|Bridge_Timber_Small_01|Take 001|BaseLayer
+    7401512: Hill_Dirt_01.002|Cactus_01.001|Take 001|BaseLayer
+    7401514: Hill_Dirt_01.002|Cactus_01.001|Take 001|BaseLayer.001
+    7401516: Hill_Dirt_01.002|Cactus_01|Take 001|BaseLayer
+    7401518: Hill_Dirt_01.002|Cactus_01|Take 001|BaseLayer.001
+    7401520: Hill_Dirt_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer
+    7401522: Hill_Dirt_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.001
+    7401524: Hill_Dirt_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.002
+    7401526: Hill_Dirt_01.002|Fence_Timber_Large_02.001|Take 001|BaseLayer.003
+    7401528: Hill_Dirt_01.002|Fence_Timber_Large_02|Take 001|BaseLayer
+    7401530: Hill_Dirt_01.002|Fence_Timber_Large_02|Take 001|BaseLayer.001
+    7401532: Hill_Dirt_01.002|Fence_Timber_Large_02|Take 001|BaseLayer.002
+    7401534: Hill_Dirt_01.002|Fence_Timber_Large_02|Take 001|BaseLayer.003
+    7401536: Hill_Dirt_01.002|Hill_Dirt_01.001|Take 001|BaseLayer
+    7401538: Hill_Dirt_01.002|Hill_Dirt_01|Take 001|BaseLayer
+    7401540: Hill_Dirt_01.002|Hill_Dirt_01|Take 001|BaseLayer.001
+    7401542: Hill_Dirt_01.002|Mountain_Grass_01.001|Take 001|BaseLayer
+    7401544: Hill_Dirt_01.002|Mountain_Grass_01|Take 001|BaseLayer
+    7401546: Hill_Dirt_01.002|Sign_Wooden_Blank_01.001|Take 001|BaseLayer
+    7401548: Hill_Dirt_01.002|Sign_Wooden_Blank_01.002|Take 001|BaseLayer
+    7401550: Hill_Dirt_01.002|Sign_Wooden_Blank_01|Take 001|BaseLayer
+    7401552: Hill_Dirt_01.002|Tree_Common_01.001|Take 001|BaseLayer
+    7401554: Hill_Dirt_01.002|Tree_Common_01|Take 001|BaseLayer
+    7401556: Hill_Dirt_01.002|Well_01.001|Take 001|BaseLayer
+    7401558: Hill_Dirt_01.002|Well_01|Take 001|BaseLayer
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
